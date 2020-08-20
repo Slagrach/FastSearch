@@ -1058,6 +1058,10 @@ section.slid .slid-container._container .slid-content .slid-right .slid-items2 .
     text-decoration: underline;
 }
 
+.contact-item__address-adds a:hover {
+    text-decoration: none;
+}
+
 .contact-item__address-adds p:nth-child(5) {
     margin: 0 0 22px 0;
 }
